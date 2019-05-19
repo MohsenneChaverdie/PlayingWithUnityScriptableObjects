@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using ScriptableObjects.Definition;
+using UnityEngine;
 
 public class Spawner : MonoBehaviour
 {
